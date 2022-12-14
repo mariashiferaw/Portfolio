@@ -1,0 +1,42 @@
+#leadership{
+    font-size: 65px;
+    text-align: center;
+    color: purple;
+    background-image: url(leadership.webp);
+    background-size: cover;
+    background-position: center;
+    width: auto;
+    height: 300px;
+    margin-top: 0;
+    font-style: italic;
+    text-shadow: 2px 2px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    
+}
+    
+ h2{
+    color: purple;
+    float: left;
+    font-size: 60px;
+}
+
+ blockquote{
+    
+    margin-left: 450px;
+}
+
+
+
+
+
+blockquote{
+    text-indent: 2px;
+    font-size: 25px;
+   padding: auto;
+}
+
+footer{
+    text-align: center;
+    padding: 50px;
+    color: gray;
+}

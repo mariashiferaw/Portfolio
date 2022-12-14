@@ -1,0 +1,38 @@
+#intercultural{
+    font-size: 65px;
+    text-align: center;
+   
+    background-color: rgb(120, 161, 161);
+    
+    background-size: cover;
+    background-position: center;
+    width: auto;
+    height: 200px;
+    margin-top: 0;
+    font-style: italic;
+    text-shadow: 2px 2px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    
+}
+    
+ h1{
+    color: black;
+    text-align: center;
+    font-size: 60px;
+}
+
+
+blockquote{
+    
+    padding-left: 30px;
+    padding-right: 30px;
+    text-indent: 2px;
+    font-size: 25px;
+    padding: auto;
+}
+
+footer{
+    text-align: center;
+    padding: 50px;
+    color: gray;
+}
